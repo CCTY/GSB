@@ -16,7 +16,7 @@ public class FenConnexion extends javax.swing.JFrame {
 
     private void complementGUI() {
         setIconImage(Toolkit.getDefaultToolkit().getImage(getClass()
-                .getResource("/images/logoNetBeans.png")));
+                .getResource("/images/NetBeansLogo.png")));
         setTitle("SARL XELFI");
     }
 
